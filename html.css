@@ -9,9 +9,6 @@ p    {color: red;}
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
 </body>
 </html>
 <video width="320" height="240" controls>
@@ -19,3 +16,12 @@ p    {color: red;}
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
+
+p {
+  color: red;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: red;
+}
