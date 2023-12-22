@@ -1,5 +1,10 @@
 #!/bin/sh
 # This is bash program to display Hello World
 echo " Hello World "
+<<<<<<< HEAD
 hotstar username
 hotstar password
+=======
+hotstar subscription
+hotstar premium
+>>>>>>> 6798aa7861ea1e1bf2a769283d9998331cebd971
